@@ -22,7 +22,7 @@ attributes:
       hostAliases:
         - ip: 172.30.250.250
           hostnames:
-            - maas.apps.cluster-grnl8.grnl8.sandbox897.opentlc.com/#https://github.com/adnan-drina/spring-petclinic-rest-legacy-v7
+            - maas.apps.cluster-grnl8.grnl8.sandbox897.opentlc.com
 # Migration workspace layout — two projects, fixed order:
 #   /projects/legacy      the application being migrated (workspace-only
 #                         clone of the legacy repository; never registered
